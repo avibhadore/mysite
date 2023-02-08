@@ -1,5 +1,5 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>lol now its rendering the about page on top of the existing webpage!</h1>
   </div>
 </template>
